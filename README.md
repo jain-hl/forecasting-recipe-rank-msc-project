@@ -8,4 +8,6 @@ This study explores various statistical, supervised learning and learning-to-ran
 
 This study concludes that learning-to-rank algorithms surprisingly underperform in this ranking task, including a state-of-the-art LambdaMART implementation via LightGBM Ranker, with suggested explanations and future optimisations required to better leverage the functionalities of ranking models.
 
-View the full report [here]
+View the full report [here](https://github.com/jain-hl/forecasting-recipe-rank-msc-project/blob/main/Forecasting_Recipe_Rank_18006555.pdf)
+
+Note that the code provided does not contain any data, necessary to replicate experiments, due to the presence of sensitive company data.
